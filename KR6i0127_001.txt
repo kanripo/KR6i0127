@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:31.912731
+#+DATE: 2015-08-30 20:10:33.052854
 #+TITLE: 佛說摩訶迦葉度貧母經
 #+PROPERTY: CBETA_ID T14n0497
 #+PROPERTY: ID KR6i0127
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 497
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0127_T_001-0761c> 
 #+PROPERTY: JUAN 1
 ¶
-No.497¶
-
- 佛說摩訶迦葉度貧母經¶
+No. 497¶
+佛說摩訶迦葉度貧母經¶
 ¶
 宋于闐國三藏求那跋陀羅譯¶
 
@@ -198,7 +197,7 @@ No.497¶
 　為其貧母，
 　開說真言。
 　時母歡喜，¶
-　貢上米𤄜，
+　貢上米[泳-永+(米*番)]，
 　施如芥子，
 　獲報如山。¶
 　自致天女，
