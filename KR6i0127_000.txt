@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說摩訶迦葉度貧母經
+#+DATE: 2015-08-30 20:10:32.112060
+#+PROPERTY: JUAN 0
